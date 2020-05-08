@@ -1,0 +1,43 @@
+body{
+    background-color: pink;
+}
+
+#div1{
+    background-color: green;
+    height: 100px;
+    width: 800px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#div2{
+    background-color: blue;
+    width: 800px;
+    height: 500px;
+    text-align: right;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#div3{
+    background-color: blueviolet;
+    font-size: 70px;
+    /*kleur va  n de tekst*/
+    color: white;
+    width: 500px;
+    height: 300px;
+
+   
+    
+}
+
+#div4{
+    background-color: red;
+    color:black;
+    text-align: left;
+    width: 300px;
+    height: 100px;
+    margin-left: 30px;
+    
+}
